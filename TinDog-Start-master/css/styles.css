@@ -1,0 +1,86 @@
+body{
+  font-family: 'Montserrat';
+
+}
+h1{
+
+  color: #fff;
+  font-weight: bold;
+  font-size: 5rem;
+  line-height: 1.5;
+}
+h2 {
+  font-weight: bolder;
+  padding: 1em;
+  font-family: 'Montserrat'
+}
+
+h3{
+  font-weight: bolder;
+  padding: 1em;
+  font-size: 3em;
+}
+p{
+  color: #8f8f8f;
+}
+#title{
+  background-color: #ff4c68;
+  font-family: 'Montserrat';
+  padding: 0 0 5% 0;
+}
+.rotated{
+  transform: rotate(15deg);
+  position: absolute;
+}
+.Titulo{
+  font-size: 5rem;
+}
+.titulo-button{
+padding-left: 3%;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight: bolder;
+  font-style: italic;
+}
+.dog-img{
+border-radius: 100%;
+width: 150px;
+
+}
+#features{
+  padding: 5% 7%;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+
+}
+#testimonials{
+  padding: 5% 7%;
+  text-align: center;
+  background-color: #ff4c68;
+}
+
+#cta{
+  padding: 5% 7%;
+  text-align: center;
+  background-color: #ff4c68;
+}
+
+#footer{
+  text-align: center;
+  background-color: white;
+}
+.fa-circle-check:hover{
+  color: #ff4c68;
+}
+.fa-bullseye:hover{
+  color: #ff4c68;
+}
+.fa-heart:hover{
+  color: #ff4c68;
+}
+.footer-img{
+  padding: 1%;
+}
